@@ -6,6 +6,7 @@ import {
   Archivo_700Bold,
   useFonts,
 } from "@expo-google-fonts/archivo";
+
 import {
   Poppins_400Regular,
   Poppins_600SemiBold,
